@@ -1,0 +1,9 @@
+Azure Infra Build
+Create VPC
+VPC Name
+VPC IP Address
+VPC CIDR
+Create EC2-1
+EC2-1 Name
+EC2-1 IP Address
+EC2-1 Storage
